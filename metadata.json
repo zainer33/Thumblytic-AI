@@ -1,0 +1,7 @@
+{
+  "name": "Thumblytic.ai - Professional AI Thumbnail Design Engine",
+  "description": "An advanced AI-powered SaaS platform for generating high-converting, professional-quality thumbnails for YouTube, Instagram, and social media.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
